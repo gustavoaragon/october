@@ -17,6 +17,7 @@ return [
         'it' => 'Italian',
         'ro' => 'Romana',
         'pt-br' => 'Brazilian Portuguese',
+        'es-ar' => 'Argentine Spanish',
     ],
     'directory' => [
         'create_fail' => "Cannot create directory: :name",
